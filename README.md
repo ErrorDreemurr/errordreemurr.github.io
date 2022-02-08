@@ -5,4 +5,8 @@
 
 Dreemurr的个人网站就是这儿，欢迎来看我的B站[个人主页](https://space.bilibili.com/431064862)  
 
+以下关于TeeCraft
+
+![TeeCraftLOGO](https://i0.hdslb.com/bfs/album/a6e93b6075d93db4e1727ef66c00bb4ef61345d4.png)
+
 TeeCraft的下载链接可能放在这，没准这儿会放点新东西的预告。
