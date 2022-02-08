@@ -7,7 +7,7 @@
 > 
 > **如果是在仓库里：这是Dreemurr我用githubPage搭建的网站的github库。~~个鬼啊，完全就是个玩出花的README.md。~~**  
 
-Dreemurr的个人网站就是这儿，欢迎来看我的B站[个人主页](https://space.bilibili.com/431064862)  
+Dreemurr的个人网站就是这儿，欢迎来看我的<a href = "https://space.bilibili.com/431064862"> B站个人主页 </a>
 
 可以点击下面这玩意进入TeeCraft栏
 
