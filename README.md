@@ -7,6 +7,6 @@ Dreemurr的个人网站就是这儿，欢迎来看我的B站[个人主页](https
 
 以下关于TeeCraft
 
-![TeeCraftLOGO](https://i0.hdslb.com/bfs/album/a6e93b6075d93db4e1727ef66c00bb4ef61345d4.png)
+![TeeCraftLOGO](https://camo.githubusercontent.com/072901ffc795261afc4ceb6ebb3cf66603168b97af08da97677dd4f00c8b207e/68747470733a2f2f69302e6864736c622e636f6d2f6266732f616c62756d2f613665393362363037356439336462346531373237656636366330306262346566363133343564342e706e67)
 
 TeeCraft的下载链接可能放在这，没准这儿会放点新东西的预告。
